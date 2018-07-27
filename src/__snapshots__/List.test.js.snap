@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+    }
+  }
+>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "whitesmoke",
+        "marginBottom": 5,
+        "padding": 15,
+      }
+    }
+  >
+    todo 1
+  </div>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "backgroundColor": "whitesmoke",
+        "marginBottom": 5,
+        "padding": 15,
+      }
+    }
+  >
+    todo 2
+  </div>
+</div>
+`;

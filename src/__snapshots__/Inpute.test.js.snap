@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inpute renders correctly 1`] = `
+<input
+  onChange={[Function]}
+  onKeyPress={[Function]}
+  placeholder="placeholder"
+  style={
+    Object {
+      "borderWidth": 0,
+      "fontSize": "100%",
+      "padding": 15,
+    }
+  }
+  type="text"
+  value=""
+/>
+`;
